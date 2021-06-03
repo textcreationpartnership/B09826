@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Qvestions to be resolved of touching religious duties and civill actions</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09826</idno><idno type="EEBO-CITATION">64551630</idno>
+  <idno type="VID">184739</idno>
+  <idno type="EEBO-PROQUEST">2240862794</idno>
+  
+            <idno type="STC">Wing Q187B</idno>
+            <idno type="STC">ESTC R224267</idno>
+            <idno type="OCLC">64551630</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09826)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184739)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Qvestions to be resolved of touching religious duties and civill actions</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="questions">
+            <pb facs="tcp:184739:1"/>
+            <head>QVESTIONS TO BE RESOLVED OF Touching Religious duties, and civill actions.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hy should we take away the sence of the Psalmes (before and after the Lessons) from all such as are not learned? And from all others which have not an apt gift in reading, by many voyces uttering the same thing together? Why should we be injoyned many repetitions of one and the same thing?</p>
+            <p>Why should we confound the sence in divers places of the Common prayer, or Service, by taking the suc<g ref="char:EOLhyphen"/>ceeding verse, or part, out of the Ministers mouth? And so preventing (at least) the unlearned hearers of the benefit of it, 1 <hi>Corinth.</hi> 14.</p>
+            <p>
+               <hi>In the Lords Prayer.</hi> Why are not the words, <hi>For thine is the Kingdome, &amp;c.</hi> permitted in the common Ser<g ref="char:EOLhyphen"/>vice, <hi>Math.</hi> 6.9.</p>
+            <p>Why not, <hi>He suffered and was buried, &amp;c.</hi> Aswell in the usuall Service Creed, as in the Common Creed; in regard of the tender capacities of children and youth; and the misconceivings that may arise by the words <hi>(He descended into Hell.) Math.</hi> 28.6. <hi>Luk.</hi> 23.43. <hi>Act.</hi> 13.29.</p>
+            <p>Are we enjoyned by the Scriptures to be tyed upon salvation, (as in the <hi>Quicunque vult</hi>) to beleeve further then the capacities of most (or at least) many can reach unto, touching the dividing of the persons of the Godhead; and Incarnation of our Saviour, by such words as are very hard for such as are unlearned to understand? <hi>Math.</hi> 11.28. <hi>Rom.</hi> 10.9.</p>
+            <p>To whom ought we most properly to direct our prayers? <hi>Philip.</hi> 4.6.</p>
+            <p>Why is the Minister in the Letany tied to imperfect conclusions, and the Minister and people to exchange the praying part? <hi>Eccles.</hi> 5.1.</p>
+            <p>Ought we to be injoyned (as in the Letany) to pray for deliverance, by part of Christs Attributes; and not rather by his full satisfa<g ref="char:EOLhyphen"/>ction? <hi>Heb.</hi> 9.12.</p>
+            <p>Why is the signe of the Crosse enjoyned in Baptisme; that Sacrament being fully and perfectly ministred without that Rite or Cere<g ref="char:EOLhyphen"/>mony? <hi>Deut.</hi> 4.1. <hi>Deut.</hi> 18.18. <hi>Math</hi> 28.19. <hi>Rom.</hi> 10.3.</p>
+            <p>Why are the Godfathers and Godmothers absolutely commanded to provide for the Christian principles in Religion, of their God<g ref="char:EOLhyphen"/>children, f<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>her then opportunity shall permit? 1 <hi>Cor.</hi> 2.16.</p>
+            <p>Why are we enjoyned to use that gesture the Papists use (and most idolatrously abuse) in receiving the Bread and Wine: and not left to that gesture which is generally received, and used by other true reformed Churches? <hi>Isaiah</hi> 40.13. <hi>Math.</hi> 26.20. <hi>Marke</hi> 14.18. <hi>Luke</hi> 22.14. 1 <hi>Cor.</hi> 3.11. 1 <hi>Cor.</hi> 8.12.</p>
+            <p>What was the manner, custome and end of laying on of hands? and how doth it properly belong to the Bishop? 1 <hi>Timoth</hi> 4.14.</p>
+            <p>May we absolutely conclude salvation to all such as are baptised, without further limitation of Gods assisting grace? <hi>Acts</hi> 8.22.</p>
+            <p>Is not marriage at all times of the yeere a like lawfull? 1 <hi>Timoth.</hi> 4.1.</p>
+            <p>Is the first protestation touching the ring, in the solemnizing of Matrimony commanded by the Word of God? Is not the second con<g ref="char:EOLhyphen"/>trary to the Word of God, (or at least a desperate protestation?) And is not the third further then the lawes of the Land injoyne? <hi>Gen.</hi> 2.22. <hi>Genes.</hi> 24.67. <hi>Ruth.</hi> 4.10. <hi>Prov.</hi> 30.6.</p>
+            <p>Why in the churching of women, is the Minister injoyned to read part of the Lords prayer, and not allowed to read the rest? <hi>Mala.</hi> 2.7. <hi>Deut.</hi> 12.32. <hi>Ioshua</hi> 1.7. <hi>Isaiah</hi> 33.22. <hi>Ierem.</hi> 2.13. <hi>Ezech.</hi> 43.8. <hi>Luke</hi> 4.17. <hi>Acts</hi> 13.15. <hi>Acts</hi> 17.2. 2 <hi>Tim.</hi> 2.2. 1 <hi>Pet.</hi> 4.10.</p>
+            <p>If the reading the Canonicall Scriptures appointed by Law to be read upon the Holy daies and the like, be or shall be without due order of Law prohibited; and twenty A pochripha Chapters (or any other number) commanded to be read in their stead, or if from the Tyranny of the Bishop of <hi>Rome</hi> and all his detestable enormities, &amp;c. be taken (without due order of Law) out of the Letany, or a prayer for the Bishops, &amp;c. be put into the booke of Common prayer; or any other prayer or prayers, be placed contrary to the order for the forme of Common prayer; or if any prayer or exhortation be taken out of the booke of Common prayer, and other or others put in with<g ref="char:EOLhyphen"/>out due order of Law</p>
+            <div type="part">
+               <head>The Minister being to use the Booke of Common prayer, and Service, according to the Statute, And none other, or otherwise:</head>
+               <p>The first question is: If the Parish provide not the true booke established by Law, but a booke with the same (or such like) alterati<g ref="char:EOLhyphen"/>ons, detractions, or addition as aforesaid; Whether or no shall the Minister incurre the penalty of the Law in not adventuring to make use of it with such alterations, detractions, or additions, being interlaced therein.</p>
+               <p>Secondly, shall not such as wittingly make use of such bookes with such alterations, &amp;c. as aforesaid be in danger of the penalty of the Law in so doing.</p>
+               <p>Thirdly, shall not such as by violence impose, or indeavour to impose the use of it upon others (with such alterations, &amp;c. as a fore<g ref="char:EOLhyphen"/>said) be lyable to make recompence and satisfaction to the party or parties any way damnified thereby?</p>
+               <p>Whether or no by the first <hi>Corinthians</hi> chap. 5. ver. 4. had any one man the power of excommunicating the Incestuous person, or was there a full consent of the Congregation?</p>
+               <p>Whether or no by <hi>Acts</hi> chap. 15. vers. 23. had the Elders and brethren a voyce and consent in the hearing and determining of the question touching Circumcision?</p>
+               <p>Whether or no is that part of Scripture without contradiction, in the second <hi>Timothy</hi> chap. 3. vers. 15, 16, 17. viz. <hi>That the holy Scriptures are able to make us wise unto Salvation through faith in Christ Jesus. And that all Scripture is given by inspiration of God, and is profitable for doctrine, for reproofe, for correction, for instruction, in righteousnesse. That the man of God may be perfect, throughly furnished unto all good workes.</hi>
+               </p>
+               <p>
+                  <hi>E<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a</hi> 4.23. <hi>Isaiah</hi> 50.11. <hi>Ezech.</hi> 13.14. <hi>Luke</hi> 19.27. <hi>Acts</hi> 17.11. <hi>Rom.</hi> 1.21. <hi>Rom.</hi> 12.2. <hi>Galat.</hi> 1.8. <hi>Galat.</hi> 4.9. <hi>Galat.</hi> 5.7. <hi>Colos.</hi> 2.6. <hi>Colos.</hi> 2.20. 2 <hi>Thess.</hi> 2.15. 1 <hi>Tim.</hi> 6.3. 1 <hi>Tim.</hi> 1.13. <hi>Hebr.</hi> 2.2. <hi>Heb.</hi> 3.14. <hi>Iames</hi> 4.12. <hi>Iude</hi> ver. 3. <hi>Revel.</hi> 1.3. <hi>Revel.</hi> 22.18.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
